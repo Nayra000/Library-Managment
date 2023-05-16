@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1609523550 source:c:\users\hp\desktop\cat task\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1609523550 c:\users\hp\desktop\cat task\library\linkedlist.h
+
+1609523550 source:c:\users\hp\desktop\cat task\library\linkedlist.c
+	<stdio.h>
+	"linkedlist.h"
+	<string.h>
+
+1609751556 source:d:\library\linkedlist.c
+	<stdio.h>
+	"linkedlist.h"
+	<string.h>
+
+1609751556 d:\library\linkedlist.h
+
+1609751556 source:d:\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"linkedlist.h"
+
